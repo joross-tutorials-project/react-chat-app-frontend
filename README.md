@@ -27,6 +27,12 @@ $ npm start
 
 ## Authors
 
+Reach out to me at one of the following places!
+
+- LinkedIn at <a href="https://www.linkedin.com/in/iamjoross/" target="_blank">`/iamjoross`</a>
+- Twitter at <a href="http://twitter.com/iamjoross" target="_blank">`@iamjoross`</a>
+- Github at <a href="http://twitter.com/iamjoross" target="_blank">`@iamjoross`</a>
+- Dev.To at <a href="https://dev.to/iamjoross" target="_blank">`@iamjoross`</a>
 * **Joross Barredo** - [iamjoross](https://github.com/iamjoross)
 
 ## License
