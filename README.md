@@ -1,68 +1,45 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Chat App
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c712f4e8-3658-4fdb-aeb8-04d0c22926a7/deploy-status)](https://app.netlify.com/sites/react-chat-app-joross/deploys)
 
-## Available Scripts
+Simple Chat application using React, Node.js, Express and Socket.io. This is based on [Adrian Hajdin](https://github.com/adrianhajdin) [Build and Deploy a Realtime Chat Application](https://www.youtube.com/watch?v=ZwFA3YMfkoc) tutorial on Youtube. You can check the live chat app [https://react-chat-app-joross.netlify.com/](https://react-chat-app-joross.netlify.com/).
 
-In the project directory, you can run:
+## Getting Started
 
-### `npm start`
+This repository only contains the frontend of the app. The backend is in this [repository](https://github.com/iamjoross/react-chat-app-backend).
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### Installing
 
-### `npm test`
+The Chat app requires the latest version of Node.js to run. 
+Install the dependencies and devDependencies and start the server.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```sh
+$ cd react-chat-app-frontend
+$ npm install
+$ npm start
+```
 
-### `npm run build`
+## Tech
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* React
+* Socket.io
+* React-Emoji
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## Authors
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* **Joross Barredo** - [iamjoross](https://github.com/iamjoross)
 
-### `npm run eject`
+## License
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Acknowledgments
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+* Followed and inspired by [Adrian Hajdin](https://github.com/adrianhajdin) [Build and Deploy a Realtime Chat Application](https://www.youtube.com/watch?v=ZwFA3YMfkoc) tutorial on Youtube.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Todos
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+ - TO DO
 
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
